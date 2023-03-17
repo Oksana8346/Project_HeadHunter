@@ -54,7 +54,7 @@ git clone https://github.com/Oksana8346/Project_HeadHunter.git
 
 ## Авторы
 
-* [Оксана Г.](ссылка на ваши соц сети)
+* Оксана Г.
 
 ## Выводы
 
