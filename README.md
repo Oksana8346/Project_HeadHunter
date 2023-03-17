@@ -40,26 +40,20 @@
 
 Файл с данными можно найти [здесь](https://drive.google.com/drive/folders/1X-5_LGXLNPT4amPOz2KcgsbyuTV8fgj9?usp=share_link).
 
-## Используемые зависимости
-* Python (3.9):
-    * [numpy (1.20.3)](https://numpy.org)
-    * [pandas (1.3.4)](https://pandas.pydata.org)
-    * [matplotlib (3.4.3)](https://matplotlib.org)
-    * [seaborn (0.11.2)](https://seaborn.pydata.org)
 
 ## Установка проекта
 
 ```
-git clone https://github.com/SkillfactoryDS/DataCleaningProject
+git clone https://github.com/Oksana8346/Project_HeadHunter.git
 ```
 
 ## Использование
-Вся информация о работе представлена в jupyter-ноутбуке data_cleaning_example.ipynb.
+Вся информация о работе представлена в jupyter-ноутбуке Project-HeadHunter.ipynb.
 
 ## Авторы
 
-* [Укажите свое имя](ссылка на ваши соц сети)
+* [Оксана Г.](ссылка на ваши соц сети)
 
 ## Выводы
 
-Допишите выводы по проделанной работе.
+В ходе рабобты над проектом данные проанализированы, очищены от "мусора", определены зависимости в различных категорий, внутри каждого отдельного признака данные преведены к единообразному виду, одним словом данные подготовлены для дальнейшего использования.
